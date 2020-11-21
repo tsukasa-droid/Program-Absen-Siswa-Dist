@@ -1,0 +1,21 @@
+.modal .modal-header {
+	background: var(--blue-gradient);
+}
+.modal .modal-body {
+	display: flex;
+	flex-direction: column;
+}
+
+.modal .modal-body label {
+	width: 30%;
+}
+.modal .modal-body div {
+	font-size: 14px;
+}
+
+.modal .modal-body input {
+	width: 70%;
+}
+.modal .modal-footer button#btn-tambah {
+	background: var(--blue-gradient);
+}
